@@ -1,0 +1,37 @@
+Variables : 
+Las  Variables son como unos espacios que inicialemte estan desocupados 
+y en el que puedes guardar algo para recuperarlo y utilizarlo. eso que se almacena 
+pude ser transformado o puede ser ocupado por otro elemento de la misma clase llamado Dato.
+--------------------------------------------------------------------------------------------------------------------------
+String : 
+Es un tipo de dato que tiene la caracteristica que no puede hacer operaciones 
+matematicas como el tipo numerico por que esta formado por valores : alfabeticos como una 
+palabra o letra ('a', 'casa'), la combinacion de letras y numeros como por ejemplo la placa
+de un vehiculo :'JKL 234' o inclusive tener la apariencia numerica pero que no podrian realizarse
+operaciones matematicas por que tienen esta caracteristicas '12345'. a ellos se les realizan
+otros tipos de operaciones pero que no son matematicas. como por ejemplo unir dos tipos de datos String
+ejemplo : 'casa ' + 'azul' esta operacion daria como resultado : 'casa azul'
+-----------------------------------------------------------------------------------------------------------------------
+Funcion : 
+Es un conjunto de instrucciones que involucra variables y datos. y que realizan unas 
+operaciones que devuelven un unico valor. por ejemplo la funcion suma de dos valores . 
+esta funcion recibe dos valores numericos
+luego se realiza la instruccion de operacion matematica
+y devuelve o retorna el resultado de la suma.
+----------------------------------------------------------------------------------------------------------------------------------------
+Declaraciones `if : 
+Es una intruccion que en español significa (Si) que evalua una expresion y me permite 
+tomar solamente de dos caminos un solo.
+
+   Ejemplo : 
+Vamos a suponer que tu mama te dice :  Juanito " Si "    te pones los Zapatos --> " Juegas Futbol  "
+                                               " Si No"  te pones los Zapatos --> " Te vas a bañar "
+
+ tienes solamente una sola posibilidad de esoger, la que escoja te lleva a jugar futbol o bañarte.
+--------------------------------------------------------------------------------------------------------------------
+Valores booleanos : 
+Es un tipo de dato que puede variar de dos formas : Verdadero (True) o falso (False). 
+   Ejemplo :
+   Vamos programar el encendido y el apagado de un foco. Entonces
+   Foco Encendido ---> sera Verdadero (True)
+   Foco Apagado   ---> sera Falso (False). 
