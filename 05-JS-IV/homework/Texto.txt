@@ -1,0 +1,56 @@
+Objetos : Los objetos son una estructuras compuesta: Por un un NOMBRE que relaciona  
+una serie de variables llamadas PROPIEDADES que tienen Un nombre llamado CLAVE  y que puede
+almacenar un VALOR. 
+
+EJEMPLO :  MODELEMOS EL OBJETO VEHICULO 
+
+OBJETO  : Vehiculo1
+             PROPIEDADES 
+             Color :      VALOR = Rojo
+             Marca :      VALOR = Audi
+             Placa :      VALOR = KJL231
+              
+        : Vehiculo2
+             PROPIEDADES 
+             Color :      VALOR = Azul
+             Marca :      VALOR = BMW
+             Placa :      VALOR = KJL777
+           
+
+Propiedades : Las propiedades son los atributos o caracteristicas que posee un objeto.
+
+JEMPLO : MODELEMOS LAS PROPIEDADES O ATRIBUTOS DE UN ANIMAL
+   
+   PROPIEDADES - Nombre    : VALORES que toma la propiedad : Gallina, Culebra, Tiburon, etc
+               - Tipo      : VALORES que toma la propiedad : Ave, Reptil, Acuatico, etc
+               - Mamiferos : VALORES que toma la propiedad : True o False
+               - Habitad   : VALORES que toma la propiedad : Terrestres, Acuaticos, Aire, Terrestre-Acuatico
+
+Métodos : Los metodos son las ACCIONES que ejecutan esos objetos en relacion s las propiedades que posee.
+
+EJEMPLO : Tomemos el ejemplo anterior. 
+          
+          Que acciones pueden tener los animales ; 
+                                                 ------------------------METODOS-----------------------------------
+         - El objeto Animal de nombre Culebra   : Puede picar, Puedeecharte Veneno, puede arrastrarse, puede emitir un sonido, puede poner huevos
+         - El objeto Animal de nombre Gallina   : Puede picotear, Puede caminar, Puede emitir un sonido, puede poner huevos
+         - El objeto Animal de nombre Cocodrilo : Puede Morder, Puede Arrastrarse y Puede Nadar, Puede emitir un sonido, puede poner huevos
+
+Bucle for…in : Es un estamento, sentencia o instruccion del lenguaje que permite reccorrer las propiedades de un objeto. es asi de simple.
+
+Notación de puntos vs notación de corchetes : Como dijimos anteiormente los objetos estan compuestos por un nombre que tiene relacionado un conjunto de propiedades y esas propiedades pueden almacenar un valor. Entonces las dos maneras que tenemos para recuperar el valor de una propiedad de un objeto se hace con estos caracteres de la siguiente forma:
+
+nombreobjeto.nombrepropiedad    ---> esto me devuelve el valor que tenga almcenado la propiedad.
+nombreobjeto['nombrepropiedad']  --> esto me devuelve el valor que tenga almcenado la propiedad.
+
+Ejemplo:  Tengo la siguiente estructura de objetos
+OBJETO  : Vehiculo1
+          PROPIEDADES :
+             Color :    VALOR =Rojo
+             Marca :    VALOR =Audi
+             Placa :    VALOR =KJL231
+
+             para acceder el valor de la placa y el color del vehiculo entonces la instruccion seria la siguiente:
+
+             Vehiculo1.Placa      ---> KJL231
+             Vehiculo1[´Color']   ---> Rojo 
