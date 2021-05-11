@@ -1,0 +1,9 @@
+ARRAY : ARREGLO
+Es una estructura en la que se puede :
+Almacenar, Recuperar, Eliminar y Adicionar elementos 
+ubicados en distintas posiciones de manera consecutiva.
+tienen un tamaño que es el numero de elementos que puedo almacenar.
+
+Ejemplo : Un Archivador : Es el Arreglo
+          Los Cajones   : Son las posiciones donde puedo guardar cosas o eliminarlas.
+          Tamaño        : El numero de cajones que tiene el archivador.
