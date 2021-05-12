@@ -1,0 +1,18 @@
+prototype : 
+Primero hay que entender que asi como las Clases(Class) puede construir o fabricar instancias de objetos 
+con unas propiedades definidas dentro de las clases haciendo uo del constructor. Las Clases pueden tener un fabricador de metodos o funciones
+dentro de las clases que son los prototipos(prototype). Cuando se crea un objeto invocando a la clase que va pertenecer
+para ser creado o instanciado el toma tambien todos los metodos que fueron construidos con el prototype que esta en la clase.
+
+
+Constructors (de Clases) : El constructor es la estructura informatica  sobre el cual se crean los 
+o se instancias los objetos. Cuando se crea un objeto de la misma clase tiene una estructura que son las propiedades.
+Varios objetos que pertenecen a la misma clase compartiran esas propiedades que estan definidas en el constructor.
+ 
+
+Ejemplo ; vamos a modelar la clase : ANIMAL
+EL Constructor define unos atributos o propiedades de la clase ANIMAL
+ -Nombre   : se refiere al nombre del animal : gato,perro,cocodrilo, etc son los objetos que puedo crear con la clase
+ .color    : 
+ -altura   :
+ -mamifero :
