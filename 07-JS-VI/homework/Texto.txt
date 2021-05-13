@@ -1,0 +1,4 @@
+Funciones CallBack:
+Traduccion del ingles llamada devuelta. 
+Es una funcion o metodo que recibe como argumento o 
+parametros no valores literales o variables sino otra funcion. 
